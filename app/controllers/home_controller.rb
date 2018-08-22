@@ -1,4 +1,5 @@
 class HomeController < ApplicationController
-  def europe
+ 
+ def europe
   end
 end
